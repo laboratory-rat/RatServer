@@ -1,0 +1,6 @@
+name:
+  ratserver
+dependencies:
+  rpc: "^0.5.5"
+  mongo_dart: "^0.2.10"
+  di: ">=3.3.4 <4.0.0"
